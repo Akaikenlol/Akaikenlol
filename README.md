@@ -1,7 +1,7 @@
 <h1 align="center">Hi There👋, I'm Aung Myo Thaw aka Keith Ken</h1>
 <h3 align="center">Next JS enthusiast.</h3>
 
-- 🔭 I’m currently working on **Poneyape**
+- 🔭 I’m currently working in **TechnoPro IT**
 
 - 👨‍💻 All of my projects are available at [portfolio-creative](https://portfolio-creative-five.vercel.app/)
 
